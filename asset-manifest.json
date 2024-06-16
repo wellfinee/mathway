@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/mathway/static/css/main.7b8faca1.chunk.css",
+    "main.js": "/mathway/static/js/main.9e5018fb.chunk.js",
+    "main.js.map": "/mathway/static/js/main.9e5018fb.chunk.js.map",
+    "runtime-main.js": "/mathway/static/js/runtime-main.8f31892b.js",
+    "runtime-main.js.map": "/mathway/static/js/runtime-main.8f31892b.js.map",
+    "static/js/2.f3342615.chunk.js": "/mathway/static/js/2.f3342615.chunk.js",
+    "static/js/2.f3342615.chunk.js.map": "/mathway/static/js/2.f3342615.chunk.js.map",
+    "static/js/3.948958f9.chunk.js": "/mathway/static/js/3.948958f9.chunk.js",
+    "static/js/3.948958f9.chunk.js.map": "/mathway/static/js/3.948958f9.chunk.js.map",
+    "index.html": "/mathway/index.html",
+    "static/css/main.7b8faca1.chunk.css.map": "/mathway/static/css/main.7b8faca1.chunk.css.map",
+    "static/js/2.f3342615.chunk.js.LICENSE.txt": "/mathway/static/js/2.f3342615.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/mathway/static/media/reg-png1.f44e31d4.png",
+    "static/media/8.75d63fcd.png": "/mathway/static/media/8.75d63fcd.png",
+    "static/media/ob-tell-front-g.043b889d.png": "/mathway/static/media/ob-tell-front-g.043b889d.png",
+    "static/media/ob-tell-left-g.6cbe42d0.png": "/mathway/static/media/ob-tell-left-g.6cbe42d0.png",
+    "static/media/ob-tell-left.4de2aabd.png": "/mathway/static/media/ob-tell-left.4de2aabd.png",
+    "static/media/ob-tell-right-g.2af34d10.png": "/mathway/static/media/ob-tell-right-g.2af34d10.png",
+    "static/media/online-edu-1.34da5308.jpg": "/mathway/static/media/online-edu-1.34da5308.jpg",
+    "static/media/online-edu-2.a84e99da.jpg": "/mathway/static/media/online-edu-2.a84e99da.jpg",
+    "static/media/online-edu-3.b0655a2e.jpg": "/mathway/static/media/online-edu-3.b0655a2e.jpg",
+    "static/media/online-edu-4.3bcd42d7.jpg": "/mathway/static/media/online-edu-4.3bcd42d7.jpg",
+    "static/media/reg-png.ab28a3df.png": "/mathway/static/media/reg-png.ab28a3df.png",
+    "static/media/video.3cb4ed06.mp4": "/mathway/static/media/video.3cb4ed06.mp4",
+    "static/media/video2.f6fb202c.mp4": "/mathway/static/media/video2.f6fb202c.mp4",
+    "static/media/video3.1f49f081.mp4": "/mathway/static/media/video3.1f49f081.mp4",
+    "static/media/video4.b3d9102e.mp4": "/mathway/static/media/video4.b3d9102e.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f31892b.js",
+    "static/js/2.f3342615.chunk.js",
+    "static/css/main.7b8faca1.chunk.css",
+    "static/js/main.9e5018fb.chunk.js"
+  ]
+}
